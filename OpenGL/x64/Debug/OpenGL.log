@@ -1,0 +1,9 @@
+﻿  Application.cpp
+  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  VertexArray.cpp
+C:\Dev\OpenGL\OpenGL\src\VertexArray.cpp(26,3): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+  VertexBuffer.cpp
+  Generating Code...
+  OpenGL.vcxproj -> C:\Dev\OpenGL\x64\Debug\OpenGL.exe
